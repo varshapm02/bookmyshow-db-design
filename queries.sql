@@ -1,8 +1,4 @@
 USE bookmyshow;
-
--- P2: List all shows on a given date at a given theatre
--- Replace theatre name and date as needed
-
 SELECT
     m.movie_title,
     l.language_name,
